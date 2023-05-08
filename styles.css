@@ -51,3 +51,8 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+h3{
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+}
